@@ -1,0 +1,16 @@
+Hello, this is Github class
+adding content using nano
+mkdir=folder
+touch=file
+rmdir=remove folder
+vi=open to add
+	to write:i
+	then esc
+	then wq
+cat =to view
+nano=to add
+	ctrl+O
+	enter
+	ctrl+x
+copy=cp
+remove rm,rm -i
