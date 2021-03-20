@@ -15,3 +15,5 @@ nano=to add
 copy=cp
 remove rm,rm -i
 git add . =to be tracked
+ git log
+git log --oneline
