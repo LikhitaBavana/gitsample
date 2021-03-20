@@ -14,3 +14,4 @@ nano=to add
 	ctrl+x
 copy=cp
 remove rm,rm -i
+git add . =to be tracked
